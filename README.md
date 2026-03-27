@@ -93,6 +93,6 @@ Free for personal and educational use.
 
 ---
 
-## 🙌 Credits
+## Credits
 
 Inspired by Themefisher templates, customized and extended.
