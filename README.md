@@ -17,10 +17,6 @@
 
 ---
 
-## 📸 Preview
-
-![Preview](https://via.placeholder.com/1200x600?text=Education+Website+Template+Preview)
-
 ## Features
 
 * Responsive education website template
@@ -30,8 +26,6 @@
 * Built with HTML5, CSS3, JavaScript, Bootstrap
 * Easy to customize and reuse
 * Multi-page academic website structure
-
----
 
 ## Project Structure
 
@@ -58,16 +52,12 @@ git clone https://github.com/your-username/responsive-education-website-template
 
 Open `index.html` in your browser.
 
----
-
 ## Tech Stack
 
 * HTML5
 * CSS3 / SCSS
 * JavaScript (Vanilla + jQuery)
 * Bootstrap
-
----
 
 ## Use Cases
 
@@ -85,13 +75,9 @@ Open `index.html` in your browser.
 * Fork 🍴 and customize
 * Share 📢 with others
 
----
-
 ## License
 
 Free for personal and educational use.
-
----
 
 ## Credits
 
